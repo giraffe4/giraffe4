@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @giraffe4
 - 👀 I’m interested in robotics, mathematics, motion planning, multirobot systems, control theory
 - 🌱 I graduated from Wrocław University of Science and Technology with a degree in Embedded Robotics
+- :man_technologist: Currently working for Arendai as a part of the robotics team, coding in python,
+  developing solutions for managing autonomous fleet of mobile robots, including traffic management, path planning, interface definition and others.
+  Working daily with Linux, Docker, Github, Jira, Confluence, VS Code
 - 📫 You can mail me at piomcz@gmail.com
 
 <!---
