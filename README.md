@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @giraffe4
 - 👀 I’m interested in robotics, mathematics, motion planning, multirobot systems, control theory
-- 🌱 I’m currently studying embedder robotics for a master's degree
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I graduated from Wrocław University of Science and Technology with a degree in Embedded Robotics
 - 📫 You can mail me at piomcz@gmail.com
 
 <!---
